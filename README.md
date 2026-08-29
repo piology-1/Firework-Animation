@@ -8,6 +8,8 @@ This project is based on and inspired by the following YouTube tutorial:
 
 ## Installation and Run
 
+This project uses [uv](https://docs.astral.sh/uv/).
+
 Install the project dependencies:
 
 ```bash
