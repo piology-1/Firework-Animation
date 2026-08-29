@@ -2,9 +2,11 @@
 
 A simple Python project that creates an animated fireworks display using Pygame. The program starts with a countdown and displays a "Happy New Year!" message before launching colorful fireworks with different explosion patterns.
 
-## Installation and Run
+This project is based on and inspired by the following YouTube tutorial:
 
-This project uses [uv](https://docs.astral.sh/uv/).
+[Firework Animation Tutorial](https://www.youtube.com/watch?v=8nIi2x2m6yE)
+
+## Installation and Run
 
 Install the project dependencies:
 
